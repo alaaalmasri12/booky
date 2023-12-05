@@ -1,0 +1,30 @@
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\bin\Debug\net6.0\Booky.BL.deps.json
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\bin\Debug\net6.0\Booky.BL.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\bin\Debug\net6.0\Booky.BL.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\bin\Debug\net6.0\Booky.DAL.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\bin\Debug\net6.0\Booky.DAL.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.csproj.AssemblyReference.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.AssemblyInfoInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.AssemblyInfo.cs
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.csproj.CoreCompileInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.csproj.CopyComplete
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\obj\Debug\net6.0\refint\Booky.BL.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.BL\obj\Debug\net6.0\ref\Booky.BL.dll
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\bin\Debug\net6.0\Booky.BL.deps.json
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\bin\Debug\net6.0\Booky.BL.dll
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\bin\Debug\net6.0\Booky.BL.pdb
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\bin\Debug\net6.0\Booky.DAL.dll
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\bin\Debug\net6.0\Booky.DAL.pdb
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.csproj.AssemblyReference.cache
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.AssemblyInfoInputs.cache
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.AssemblyInfo.cs
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.csproj.CoreCompileInputs.cache
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.csproj.CopyComplete
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.dll
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\obj\Debug\net6.0\refint\Booky.BL.dll
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\obj\Debug\net6.0\Booky.BL.pdb
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.BL\obj\Debug\net6.0\ref\Booky.BL.dll

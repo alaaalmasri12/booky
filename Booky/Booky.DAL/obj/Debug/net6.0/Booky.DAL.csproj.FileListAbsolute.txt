@@ -1,0 +1,24 @@
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\bin\Debug\net6.0\Booky.DAL.deps.json
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\bin\Debug\net6.0\Booky.DAL.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\bin\Debug\net6.0\Booky.DAL.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.csproj.AssemblyReference.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.AssemblyInfoInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.AssemblyInfo.cs
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.csproj.CoreCompileInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\obj\Debug\net6.0\refint\Booky.DAL.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#7 ASP Core Web MVC\Session 1\Booky\Booky.DAL\obj\Debug\net6.0\ref\Booky.DAL.dll
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\bin\Debug\net6.0\Booky.DAL.deps.json
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\bin\Debug\net6.0\Booky.DAL.dll
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\bin\Debug\net6.0\Booky.DAL.pdb
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.csproj.AssemblyReference.cache
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.AssemblyInfoInputs.cache
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.AssemblyInfo.cs
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.dll
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\obj\Debug\net6.0\refint\Booky.DAL.dll
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\obj\Debug\net6.0\Booky.DAL.pdb
+C:\Users\Alaa'\Downloads\Demo\Booky\Booky.DAL\obj\Debug\net6.0\ref\Booky.DAL.dll
